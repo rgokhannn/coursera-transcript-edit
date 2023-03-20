@@ -36,3 +36,11 @@ You need to reference the transcript file as an argument to the script ( ./scrip
 It becomes like this with the script.
 
 ![After](https://i.ibb.co/9qKCrTV/after.png "After")
+
+
+![Before](https://i.ibb.co/qnqpj0z/beforev2.png "Before")
+
+It becomes like this with the script.
+
+![After](https://i.ibb.co/PZvBrhM/afterv2.png "After")
+
