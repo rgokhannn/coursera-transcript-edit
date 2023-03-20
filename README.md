@@ -19,8 +19,8 @@ the most important features
 When we translate the subtitle file we downloaded to google translate etc. services without editing, these services perceive the phrases "I will highlight one of" and "the most important features" as two separate sentences and do not make a meaningful translation. Same for the transcripts. Let's look at that too:
 
 
-- [Raf] In this video, I will highlight one of
-the most important features of Systems Manager, that can be used when you have a fleet of servers and want to run remote commands without having to connect
+[Raf] In this video, I will highlight one of <br/>
+the most important features of Systems Manager, that can be used when you have a fleet of servers and want to run remote commands without having to connect <br/>
 on them, one by one.
 
 
