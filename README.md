@@ -7,11 +7,11 @@ Let me explain better why we should not use the default version of the .vtt and 
 
 
 1 <br/>
-00:00:00.160 --> 00:00:01.240
+00:00:00.160 --> 00:00:01.240 <br/>
 [Raf] In this video,
 
 2 <br/>
-00:00:01.240 --> 00:00:03.780
+00:00:01.240 --> 00:00:03.780 <br/>
 I will highlight one of <br/>
 the most important features
 
