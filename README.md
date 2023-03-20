@@ -29,8 +29,8 @@ Here, we will treat the three lines of text that form a meaningful sentence as i
 
 
 
-![Before](https://ibb.co/m6b90nr "Before")
+![Before](https://i.ibb.co/Chmb6jp/before.png "Before")
 
 It becomes like this with the script.
 
-![Before](https://ibb.co/brw8KB2 "Before")
+![After](https://i.ibb.co/9qKCrTV/after.png "After")
