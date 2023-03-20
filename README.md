@@ -20,7 +20,7 @@ When we translate the subtitle file we downloaded to google translate etc. servi
 
 
 [Raf] In this video, I will highlight one of <br/>
-the most important features of Systems Manager, that can be used when you have a fleet of servers and want to run remote commands without having to connect <br/>
+the most important features of Systems Manager, that can be used when you have a fleet of servers and want to run remote commands without having to connect
 on them, one by one.
 
 
