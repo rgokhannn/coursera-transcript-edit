@@ -30,15 +30,7 @@ Here, we will treat the three lines of text that form a meaningful sentence as i
 You need to reference the transcript file as an argument to the script ( ./script.sh transcript.sh). And it will create a new version called tr.txt in the directory where the script is running.
 
 
-
-![Before](https://i.ibb.co/Chmb6jp/before.png "Before")
-
-It becomes like this with the script.
-
-![After](https://i.ibb.co/9qKCrTV/after.png "After")
-
-
-![Before](https://i.ibb.co/qnqpj0z/beforev2.png "Before")
+![Before](https://i.ibb.co/n0djm3T/beforev2.png "Before")
 
 It becomes like this with the script.
 
