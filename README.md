@@ -6,13 +6,13 @@ Coursera only provides support for English-language videos, at least for the cou
 Let me explain better why we should not use the default version of the .vtt and transcript files provided by the videos. Let's take a look at some of the content of an example subtitle(.vtt) file:
 
 
-1
+1 <br/>
 00:00:00.160 --> 00:00:01.240
 [Raf] In this video,
 
-2
+2 <br/>
 00:00:01.240 --> 00:00:03.780
-I will highlight one of
+I will highlight one of <br/>
 the most important features
 
 
