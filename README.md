@@ -8,7 +8,7 @@ Let me explain better why we should not use the default version of the .vtt and 
 
 1
 00:00:00.160 --> 00:00:01.240
-- [Raf] In this video,
+[Raf] In this video,
 
 2
 00:00:01.240 --> 00:00:03.780
