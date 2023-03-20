@@ -27,7 +27,7 @@ on them, one by one.
 Here, we will treat the three lines of text that form a meaningful sentence as if they were separate meaningful sentences, and we will still get a meaningless translation.
 
 
-You need to reference the transcript file as an argument to the script ( ./script.sh transcript.txt). And it will create a new version called tr.txt in the directory where the script is running.
+You need to reference the transcript file as an argument to the script (<b>./script.sh transcript.txt</b>). And it will create a new version called tr.txt in the directory where the script is running.
 
 
 
