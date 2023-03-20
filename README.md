@@ -29,4 +29,8 @@ Here, we will treat the three lines of text that form a meaningful sentence as i
 
 
 
-![Alt text](~/Masaüstü/transcript/before.png?raw=true "Optional Title")
+![Before](https://ibb.co/m6b90nr "Before")
+
+It becomes like this with the script.
+
+![Before](https://ibb.co/brw8KB2 "Before")
